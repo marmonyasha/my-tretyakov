@@ -1,0 +1,6 @@
+config.py
+credentials.json
+token.pickle
+credentials2.json
+token2.pickle
+tech/*

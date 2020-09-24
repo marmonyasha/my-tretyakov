@@ -1,0 +1,14 @@
+2020-07-01 02:16:19.249687
+division by zero
+  File "C:/Users/kate_/Desktop/tretyakov/auto.py", line 226, in <module>
+    min()
+  File "C:/Users/kate_/Desktop/tretyakov/auto.py", line 110, in min
+    print(1 / 0)
+
+2020-07-09 15:39:41.792192
+too many values to unpack (expected 10)
+  File "C:/Users/kate_/Desktop/tretyakov/auto.py", line 237, in <module>
+    min()
+  File "C:/Users/kate_/Desktop/tretyakov/auto.py", line 124, in min
+    g8, g9, g10, i14, i15, i16, i17, i18, i19, i20 = f.read().split()
+
